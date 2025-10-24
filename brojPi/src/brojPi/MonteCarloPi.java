@@ -11,7 +11,7 @@ public class MonteCarloPi {
 		System.out.print("Broj tacaka: ");
 		int brTacaka = scan.nextInt();
 		
-		System.out.print("Broj decimala koje treba da se poklope: ");
+		System.out.print("Broj decimala od interesa: ");
 		int brDecimala = scan.nextInt();
 		
 		int uKrugu = 0;
